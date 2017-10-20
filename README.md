@@ -5,12 +5,12 @@
 * Move it to folder
 * Move some file if it not is image
 <br>
-## How to using
+## How to using <br>
 * Run by python and with bellow command :
 <pre>
     python removedup.py -i pics -o imgs [-max 95]
 </pre>
-<br>
-* -i : input folder
-* -o : output folder
-* -max : Max percent of same file
+<br><br>
+* -i : input folder <br>
+* -o : output folder <br>
+* -max : Max percent of same file<br>
