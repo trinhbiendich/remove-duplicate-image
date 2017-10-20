@@ -9,7 +9,6 @@
 <pre>
     python removedup.py -i pics -o imgs [-max 95]
 </pre>
-<br><br>
 * -i : input folder <br>
 * -o : output folder <br>
 * -max : Max percent of same file<br>
