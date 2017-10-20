@@ -4,8 +4,7 @@
 * Check and get file with smail size
 * Move it to folder
 * Move some file if it not is image
-<br>
-## How to using <br>
+# How to using <br>
 * Run by python and with bellow command :
 <pre>
     python removedup.py -i pics -o imgs [-max 95]
